@@ -1,0 +1,20 @@
+{
+  updateId=null,
+  message=Message{
+  messageId=null,
+  from=User{
+  id=522992070,
+  firstName=
+  'null',
+  isBot=null,
+  lastName=
+  'null',
+  userName=
+  'null',
+  languageCode=
+  'null',
+  canJoinGroups=null,
+  canReadAllGroupMessages=null,
+  supportInlineQueries=null
+}, date=1595153807, chat=Chat{id=522992070, type='private', title='null', firstName='null', lastName='null', userName='null', allMembersAreAdministrators=null, photo=null, description='null', inviteLink='null', pinnedMessage=null, stickerSetName='null', canSetStickerSet=null, permissions=null, slowModeDelay=null}, forwardFrom=null, forwardFromChat=null, forwardDate=null, text='asdfasdfsd', entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=null, leftChatMember=null, newChatTitle='null', newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption='null', superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=null, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature='null', forwardSignature='null', mediaGroupId='null', connectedWebsite='null', passportData=null, forwardSenderName='null', poll=null, replyMarkup=null, dice=null, viaBot=null}, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null
+}

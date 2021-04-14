@@ -1,0 +1,61 @@
+###
+GET location-function.azurewebsites.net/api/location?lat=55.7712&lon=49.1006&radius_meters=1000
+
+###
+GET location-function.azurewebsites.net/api/location?lat=55.7712&lon=49.1006
+
+###
+POST location-function.azurewebsites.net/api/location
+
+{
+  "lat": 55.7712, "lon": 49.1006
+}
+
+###
+POST location-function.azurewebsites.net/api/location
+
+{
+  "lat": 55.7712, "lon": 49.1006, "radius_meters": 1000
+}
+
+###
+#Call to test it on your localhost port
+POST http://localhost:7071/api/location
+
+{
+  "lat": 55.7712, "lon": 49.1006, "radius_meters": 1000
+}
+
+###
+
+POST http://localhost:7071/api/location
+
+{
+  "lat": 55.7712, "lon": 49.1006
+}
+
+###
+
+GET http://localhost:7071/api/location?lat=55.7712&lon=49.1006
+
+###
+
+GET http://localhost:7071/api/location?lat=55.7712&lon=49.1006&radius_meters=1000
+
+###
+POST https://location-function.azurewebsites.net/api/hello
+
+{"name":"Azure"}
+
+###
+GET http://localhost:7071/api/hello?name=Zagir
+
+###
+
+POST http://localhost:7071/api/hello
+
+{name}
+
+
+
+
