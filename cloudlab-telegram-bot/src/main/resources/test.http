@@ -1,0 +1,9 @@
+POST https://api.telegram.org/bot1246522293:AAHAO4nnUsuzEbmZvXNUccXKzlE7f3cBZ4Q/
+Content-Type: application/json
+
+{
+  "method": "sendMessage",
+  "chat_id": 522992070,
+  "text": "Привет"
+}
+
